@@ -111,6 +111,7 @@ projects.forEach((project) => {
 
 ## Live Site & Repository
 
+- **Live Site**: [View Portfolio](https://muhammad-abdullahdev.netlify.app/)
 - **Frontend Mentor Profile**: [@theprogrammer141](https://www.frontendmentor.io/profile/theprogrammer141)
 - **GitHub**: [theprogrammer141](https://github.com/theprogrammer141)
 - **LinkedIn**: [Muhammad Abdullah](https://www.linkedin.com/in/muhammad-abdullah-872b74278/)
